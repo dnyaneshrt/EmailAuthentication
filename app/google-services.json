@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "653527810390",
+    "project_id": "emailauth-1a4dd",
+    "storage_bucket": "emailauth-1a4dd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:653527810390:android:0916333f657f5f265396f7",
+        "android_client_info": {
+          "package_name": "com.tech.firebaselogintest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "653527810390-ngv4mjss5eov7o9ens9sbe9qbi4lks9f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9_GY9eSdxUs2bml5BAw0_68JWIzzY6Yk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "653527810390-ngv4mjss5eov7o9ens9sbe9qbi4lks9f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
