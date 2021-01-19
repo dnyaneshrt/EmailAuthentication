@@ -13,4 +13,11 @@
         <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>
         <!-- Customize your theme here. -->
     </style>
+
+    <style name="Theme.MyTheme" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+    <!-- Primary brand color. -->
+    <item name="colorPrimary">#B07BF1</item>
+    <item name="colorPrimaryVariant">#9149E8</item>
+    <item name="colorOnPrimary">@color/white</item>
+    </style>
 </resources>
