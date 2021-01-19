@@ -7,12 +7,14 @@ import android.widget.Button
 import android.widget.EditText
 import android.widget.TextView
 import android.widget.Toast
+import com.google.android.material.textfield.TextInputEditText
+import com.google.android.material.textfield.TextInputLayout
 import com.google.firebase.auth.FirebaseAuth
 
 class LoginActivity : AppCompatActivity() {
 
-    private var et_email: EditText? = null
-    private var et_password: EditText? = null
+    private var et_email: TextInputEditText? = null
+    private var et_password: TextInputEditText? = null
 
     private var btn_login: Button? = null
     private var txt_register: TextView? = null
